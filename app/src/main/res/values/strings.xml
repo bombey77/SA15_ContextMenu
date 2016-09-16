@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SA13</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_settings1">Settings1</string>
+    <string name="action_settings2">Settings2</string>
+    <string name="action_settings3">Settings3</string>
+    <string name="show_menu_1">Show menu 1</string>
+    <string name="show_menu_2">Show menu 2</string>
+    <string name="setNameVisible">Set Name Visible</string>
+    <string name="set_text_visible">Set text visible</string>
+    <string name="text">Text</string>
+</resources>
